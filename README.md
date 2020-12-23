@@ -1,4 +1,4 @@
-# Soyaben-leaf-disease-detection
+# Soyaben-leaf-disease-detection using Tensorflow
 Soybean leaf disease is the most common disease(Bacterial Diseases) in our country for planting soybeans. Farmer loss their most valuable asset and didn't generate money as well as they expected when the plant got affected. From there, I decided I want to do something for them to solve this. I collect 13k affected images from the field and work with these images for preprocessing and data annotation and model building. Sounds good to see when it give me good accuracy.
 
 ##### I used 1 class to predict for Bacterial Diseases named as 'disease'
