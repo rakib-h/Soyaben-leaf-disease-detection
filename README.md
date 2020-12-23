@@ -16,8 +16,10 @@ Soybean leaf disease is the most common disease(Bacterial Diseases) in our count
 - contextlib2
 - fasterRCNN
 
-#### Tensorflow-API 
-[Link](https://github.com/tensorflow/models/tree/master/research/object_detection).
+#### Tensorflow-model
+The TensorFlow Model Garden is a repository with a number of different implementations of state-of-the-art (SOTA) models and modeling solutions for TensorFlow users. We aim to demonstrate the best practices for modeling so that TensorFlow users can take full advantage of TensorFlow for their research and product development. For, more info click the following link: [Tensorflow Model](https://github.com/tensorflow/models/tree/master/research/object_detection).
+
+## Fresh soyabean leaf
 
 ## Sample output
 <img src="output_Images/soyabean_disease.jpg" width="1100" height="700">
