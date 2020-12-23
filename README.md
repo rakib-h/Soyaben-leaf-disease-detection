@@ -11,12 +11,13 @@ Soybean leaf disease is the most common disease(Bacterial Diseases) in our count
 - lxml
 - tf Slim (which is included in the "tensorflow/models/research/" checkout)
 - Matplotlib
-- Tensorflow (>=1.12.0)
+- Tensorflow
 - Cython
 - contextlib2
-- ssd_mobilenet_v1_coco
+- fasterRCNN
 
-#### Tensorflow-API [Link](https://github.com/tensorflow/models/tree/master/research/object_detection).
+#### Tensorflow-API 
+[Link](https://github.com/tensorflow/models/tree/master/research/object_detection).
 
 ## Sample output
 <img src="output_Images/soyabean_disease.jpg" width="1100" height="700">
