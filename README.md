@@ -19,4 +19,4 @@ Soybean leaf disease is the most common disease(Bacterial Diseases) in our count
 #### Tensorflow-API [Link](https://github.com/tensorflow/models/tree/master/research/object_detection).
 
 ## Sample output
-<img src="output_Images/soyabean_disease.jpg" width="200" height="200">
+<img src="output_Images/soyabean_disease.jpg" width="1100" height="700">
