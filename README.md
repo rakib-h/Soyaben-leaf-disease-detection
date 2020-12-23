@@ -28,3 +28,6 @@ The TensorFlow Model Garden is a repository with a number of different implement
 
 ## Predicted output
 <img src="output_Images/soyabean_disease.jpg" width="800" height="500">
+
+#### References:
+[Tensorflow-API](https://github.com/tensorflow/models/tree/master/research/object_detection).
